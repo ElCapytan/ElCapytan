@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElCapytan or Frankie
-- 👀 I’m a gamer/gymrat in my free time and currently just exploring the realm of developers
-- 🌱 I’m currently a JavaScript/TypeScript "Programmer" (Trying to be anyway) and in the military
+- 👀 I’m a gamer/gymrat in my free time and currently just exploring the realm of software development.
+- 🌱 I’m currently a JavaScript/TypeScript "Programmer" and in the military
 - 💞️ I’m looking to collaborate on any small projects involving `(Java||Type)+Script`
 - 📫 For any Questions, Comments, Concerns, Advice... etc... you can reach me at frankie.rican123@gmail.com
 
